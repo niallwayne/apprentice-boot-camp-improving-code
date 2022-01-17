@@ -4,6 +4,8 @@
 - Introducing some sort of test or quiz on basic concept learning points from the bootcamp to validate that they have taken stuff in, and provide organisation mentors with results to help them focus follow ups
 --->
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8b7400431fb0484080d71765e5263d97)](https://app.codacy.com/gh/niallwayne/apprentice-boot-camp-improving-code?utm_source=github.com&utm_medium=referral&utm_content=niallwayne/apprentice-boot-camp-improving-code&utm_campaign=Badge_Grade_Settings)
+
 ## Competencies, Behaviours and Knowledge units
 
 * **[S1](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1#S1)**: create logical and maintainable code
